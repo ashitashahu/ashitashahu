@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi there 👋, I'm Ashita Ashwinkumar Shahu!<br>Welcome to my GitHub profile! I'm a passionate Full Stack Developer and problem solver, committed to building intuitive, responsive, and user-centric web applications. My projects demonstrate a strong focus on clean design, efficient performance, and scalability.<br><br>🌟 Featured Projects:<br>ModeSens Clone - E-commerce Web Application<br>TaskPro - - Task Mangement System<br>🌱 I’m currently learning ...<br>Advanced React features such as Hooks, Context API, and Redux for state management.<br>📫 How to reach me:<br>LinkedIn<br>Email<br>⚡ Fun fact:<br>I love singing 🎤 along to my favourite tunes during breaks to recharge.
+
+Hi, I'm Ashita Ashwinkumar Shahu!
+<br>Welcome to my GitHub profile! I'm a passionate Full Stack Developer and problem solver, committed to building intuitive, responsive, and user-centric web applications. My projects demonstrate a strong focus on clean design, efficient performance, and scalability.<br><br>
+
+🌟 Featured Projects:
+<br>ModeSens Clone - E-commerce Web Application
+<br>TaskPro - - Task Mangement System<br>
+
+🌱 I’m currently learning ...<br>Advanced React features such as Hooks, Context API, and Redux for state management.<br>
+
+📫 How to reach me:
+<br>LinkedIn : https://www.linkedin.com/in/ashitashahu/
+<br>Email : shahuashita@gmail.com<br>
+
+⚡ Fun fact:
+<br>I love singing 🎤 along to my favourite tunes during breaks to recharge.
 
 
 # 💻 Tech Stack:
