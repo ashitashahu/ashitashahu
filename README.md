@@ -1,6 +1,6 @@
 
 
-<br>Welcome to my GitHub profile! I'm a passionate Full Stack Developer and problem solver, committed to building intuitive, responsive, and user-centric web applications. My projects demonstrate a strong focus on clean design, efficient performance, and scalability.<br><br>
+An Aspiring Full Stack Developer and problem solver, committed to building intuitive, responsive, and user-centric web applications. My projects demonstrate a strong focus on clean design, efficient performance, and scalability.<br><br>
 
 🌟 Featured Projects:
 <br>ModeSens Clone - E-commerce Web Application
