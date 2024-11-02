@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 An Aspiring Full Stack Developer and problem solver, committed to building intuitive, responsive, and user-centric web applications. My projects demonstrate a strong focus on clean design, efficient performance, and scalability.<br><br><br>🌟 Featured Projects:<br>ModeSens Clone - E-commerce Web Application<br>TaskPro - - Task Mangement System<br><br>🌱 I’m currently learning ...<br>Advanced React features such as Hooks, Context API, and Redux for state management.<br><br>📫 How to reach me:<br>LinkedIn : https://www.linkedin.com/in/ashitashahu/<br>Email : shahuashita@gmail.com<br><br>⚡ Fun fact:<br>I love singing 🎤 along to my favourite tunes during breaks to recharge.
 
 
