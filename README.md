@@ -11,7 +11,7 @@ A driven Full Stack Developer with a knack for problem-solving and a passion for
 🔹 TaskPro — A dynamic task management system for effortless organization.<br><br>
 
 
-💡 Currently Exploring
+💡 Currently Exploring<br>
 Node.js — Delving into backend development to build even more powerful, full-featured applications.<br><br>
 
 
