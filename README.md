@@ -1,21 +1,21 @@
 
 
-👋 <b>Hello! I'm Ashita Shahu <b>
+##👋 Hello! I'm Ashita Shahu <b>
 
 
-A driven Full Stack Developer with a knack for problem-solving and a passion for crafting sleek, user-friendly web applications. I bring code to life with a focus on clean design, efficient performance, and scalability. Every project I build aims to create impactful digital experiences.
+A driven Full Stack Developer with a knack for problem-solving and a passion for crafting sleek, user-friendly web applications. I bring code to life with a focus on clean design, efficient performance, and scalability. Every project I build aims to create impactful digital experiences.<br><br>
 
 
 🚀 What I’ve Been Building<br>
 🔹 ModeSens Clone — An e-commerce platform designed to streamline your shopping journey.<br>
-🔹 TaskPro — A dynamic task management system for effortless organization.<be>
+🔹 TaskPro — A dynamic task management system for effortless organization.<br><br>
 
 
 💡 Currently Exploring
-Node.js — Delving into backend development to build even more powerful, full-featured applications.
+Node.js — Delving into backend development to build even more powerful, full-featured applications.<br><br>
 
 
-⚡ Fun fact:<br>I love singing 🎤 along to my favourite tunes during breaks to recharge.
+⚡ Fun fact:<br>I love singing 🎤 along to my favourite tunes during breaks to recharge.<br><br>
 
 
 ## 🌐 Socials:
